@@ -1,0 +1,28 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0",
+    "flat": "^6.0.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.10",
+    "odds-converter": "^1.0.4",
+    "p-limit": "^6.2.0",
+    "papaparse": "^5.5.2",
+    "path": "^0.12.7",
+    "playwright": "^1.52.0",
+    "puppeteer": "^24.8.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "xlsx": "^0.18.5"
+  }
+}

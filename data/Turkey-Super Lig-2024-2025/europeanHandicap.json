@@ -1,0 +1,206 @@
+[
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/kasimpasa-trabzonspor-GvkGa6qg/",
+    "name": "bet365.us",
+    "fullTime": {
+      "-1.00": {
+        "one": {
+          "open": "4.50",
+          "close": "3.75"
+        },
+        "x": {
+          "open": "4.50",
+          "close": "4.50"
+        },
+        "two": {
+          "open": "1.53",
+          "close": "1.67"
+        }
+      },
+      "1.00": {
+        "one": {
+          "open": "1.53",
+          "close": "1.50"
+        },
+        "x": {
+          "open": "4.75",
+          "close": "4.75"
+        },
+        "two": {
+          "open": "4.50",
+          "close": "4.75"
+        }
+      }
+    },
+    "oneHalf": {
+      "-1.00": {
+        "one": {
+          "open": "8.50",
+          "close": "7.00"
+        },
+        "x": {
+          "open": "3.75",
+          "close": "3.60"
+        },
+        "two": {
+          "open": "1.40",
+          "close": "1.44"
+        }
+      },
+      "1.00": {
+        "one": {
+          "open": "1.40",
+          "close": "1.36"
+        },
+        "x": {
+          "open": "3.75",
+          "close": "3.75"
+        },
+        "two": {
+          "open": "8.50",
+          "close": "8.50"
+        }
+      }
+    },
+    "twoHalf": {}
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/gaziantep-alanyaspor-MwNL2We2/",
+    "name": "bet365.us",
+    "fullTime": {
+      "-1.00": {
+        "one": {
+          "open": "4.50",
+          "close": "4.75"
+        },
+        "x": {
+          "open": "4.50",
+          "close": "4.50"
+        },
+        "two": {
+          "open": "1.53",
+          "close": "1.50"
+        }
+      },
+      "1.00": {
+        "one": {
+          "open": "1.50",
+          "close": "1.50"
+        },
+        "x": {
+          "open": "4.50",
+          "close": "4.50"
+        },
+        "two": {
+          "open": "5.00",
+          "close": "4.75"
+        }
+      }
+    },
+    "oneHalf": {
+      "-1.00": {
+        "one": {
+          "open": "9.00",
+          "close": "9.01"
+        },
+        "x": {
+          "open": "3.75",
+          "close": "3.75"
+        },
+        "two": {
+          "open": "1.36",
+          "close": "1.33"
+        }
+      },
+      "1.00": {
+        "one": {
+          "open": "1.36",
+          "close": "1.36"
+        },
+        "x": {
+          "open": "4.00",
+          "close": "3.75"
+        },
+        "two": {
+          "open": "9.50",
+          "close": "9.00"
+        }
+      }
+    },
+    "twoHalf": {}
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/basaksehir-fenerbahce-2TjQDd43/",
+    "name": "bet365.us",
+    "fullTime": {
+      "1.00": {
+        "one": {
+          "open": "1.95",
+          "close": "2.10"
+        },
+        "x": {
+          "open": "4.00",
+          "close": "4.00"
+        },
+        "two": {
+          "open": "3.00",
+          "close": "2.75"
+        }
+      }
+    },
+    "oneHalf": {
+      "1.00": {
+        "one": {
+          "open": "1.57",
+          "close": "1.62"
+        },
+        "x": {
+          "open": "3.25",
+          "close": "3.20"
+        },
+        "two": {
+          "open": "6.00",
+          "close": "5.51"
+        }
+      }
+    },
+    "twoHalf": {}
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/konyaspor-rizespor-OruZBzZF/",
+    "name": "bet365.us",
+    "fullTime": {
+      "-1.00": {
+        "one": {
+          "open": "4.00",
+          "close": "5.00"
+        },
+        "x": {
+          "open": "4.00",
+          "close": "4.50"
+        },
+        "two": {
+          "open": "1.70",
+          "close": "1.50"
+        }
+      }
+    },
+    "oneHalf": {
+      "-1.00": {
+        "one": {
+          "open": "8.50",
+          "close": "9.51"
+        },
+        "x": {
+          "open": "3.50",
+          "close": "3.75"
+        },
+        "two": {
+          "open": "1.40",
+          "close": "1.36"
+        }
+      }
+    },
+    "twoHalf": {}
+  }
+]

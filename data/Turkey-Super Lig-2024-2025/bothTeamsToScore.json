@@ -1,0 +1,292 @@
+[
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/kasimpasa-trabzonspor-GvkGa6qg/",
+    "name": "BET365",
+    "fullTime": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "1.44",
+        "close": "1.36",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 18:52",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "2.63",
+        "close": "3.00",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 16:26",
+        "positionHint": "no"
+      }
+    },
+    "oneHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "3.50",
+        "close": "3.25",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:58",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.29",
+        "close": "1.33",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:58",
+        "positionHint": "no"
+      }
+    },
+    "twoHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "2.50",
+        "close": "2.25",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:34",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.50",
+        "close": "1.57",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:34",
+        "positionHint": "no"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/gaziantep-alanyaspor-MwNL2We2/",
+    "name": "BET365",
+    "fullTime": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "1.57",
+        "close": "1.57",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 19:32",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "2.25",
+        "close": "2.25",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 10:22",
+        "positionHint": "no"
+      }
+    },
+    "oneHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "4.00",
+        "close": "4.00",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 18:27",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.22",
+        "close": "1.22",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 18:27",
+        "positionHint": "no"
+      }
+    },
+    "twoHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "2.75",
+        "close": "2.75",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 10:22",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.40",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 15:41",
+        "positionHint": "no"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/basaksehir-fenerbahce-2TjQDd43/",
+    "name": "BET365",
+    "fullTime": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "1.67",
+        "close": "1.57",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:32",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "2.10",
+        "close": "2.25",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:00",
+        "positionHint": "no"
+      }
+    },
+    "oneHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "4.00",
+        "close": "3.75",
+        "openDate": "05 May, 21:46",
+        "closeDate": "09 May, 08:40",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.22",
+        "close": "1.25",
+        "openDate": "05 May, 21:46",
+        "closeDate": "09 May, 15:56",
+        "positionHint": "no"
+      }
+    },
+    "twoHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "3.00",
+        "close": "2.75",
+        "openDate": "05 May, 21:46",
+        "closeDate": "09 May, 08:40",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.36",
+        "close": "1.40",
+        "openDate": "05 May, 21:46",
+        "closeDate": "09 May, 15:41",
+        "positionHint": "no"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/eyupspor-kasimpasa-W8rsAE3S/",
+    "name": "BET365",
+    "fullTime": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "1.53",
+        "close": "1.50",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:34",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "2.38",
+        "close": "2.50",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 12:26",
+        "positionHint": "no"
+      }
+    },
+    "oneHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "3.75",
+        "close": "3.75",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:23",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.25",
+        "close": "1.25",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:42",
+        "positionHint": "no"
+      }
+    },
+    "twoHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "2.75",
+        "close": "2.63",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:49",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.44",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:49",
+        "positionHint": "no"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/konyaspor-rizespor-OruZBzZF/",
+    "name": "BET365",
+    "fullTime": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "1.73",
+        "close": "1.62",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:34",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "2.00",
+        "close": "2.20",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:34",
+        "positionHint": "no"
+      }
+    },
+    "oneHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "4.50",
+        "close": "4.33",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:40",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.18",
+        "close": "1.20",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:42",
+        "positionHint": "no"
+      }
+    },
+    "twoHalf": {
+      "yes": {
+        "name": "bet365.us",
+        "open": "3.40",
+        "close": "3.00",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:34",
+        "positionHint": "yes"
+      },
+      "no": {
+        "name": "bet365.us",
+        "open": "1.30",
+        "close": "1.36",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:49",
+        "positionHint": "no"
+      }
+    }
+  }
+]

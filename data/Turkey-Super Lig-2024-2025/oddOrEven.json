@@ -1,0 +1,264 @@
+[
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/kasimpasa-trabzonspor-GvkGa6qg/",
+    "name": "BET365",
+    "fullTime": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "1.98",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 18:36",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.85",
+        "close": "1.88",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 18:36",
+        "positionHint": "even"
+      }
+    },
+    "oneHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": null,
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": null,
+        "positionHint": "even"
+      }
+    },
+    "twoHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "1.91",
+        "close": "1.83",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 16:26",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.83",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 16:26",
+        "positionHint": "even"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/gaziantep-alanyaspor-MwNL2We2/",
+    "name": "BET365",
+    "fullTime": {
+      "odd": null,
+      "even": null
+    },
+    "oneHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 10:22",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 15:54",
+        "positionHint": "even"
+      }
+    },
+    "twoHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "1.91",
+        "close": "1.91",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 15:54",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 15:54",
+        "positionHint": "even"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/basaksehir-fenerbahce-2TjQDd43/",
+    "name": "BET365",
+    "fullTime": {
+      "odd": null,
+      "even": null
+    },
+    "oneHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "05 May, 21:45",
+        "closeDate": null,
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 15:55",
+        "positionHint": "even"
+      }
+    },
+    "twoHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "1.91",
+        "close": "1.91",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 15:55",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 15:55",
+        "positionHint": "even"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/eyupspor-kasimpasa-W8rsAE3S/",
+    "name": "BET365",
+    "fullTime": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:02",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.85",
+        "close": "1.85",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:58",
+        "positionHint": "even"
+      }
+    },
+    "oneHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "06 May, 07:54",
+        "closeDate": null,
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:59",
+        "positionHint": "even"
+      }
+    },
+    "twoHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "1.91",
+        "close": "1.91",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:48",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:48",
+        "positionHint": "even"
+      }
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/konyaspor-rizespor-OruZBzZF/",
+    "name": "BET365",
+    "fullTime": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.00",
+        "close": "2.00",
+        "openDate": "06 May, 07:54",
+        "closeDate": null,
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.85",
+        "close": "1.85",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:58",
+        "positionHint": "even"
+      }
+    },
+    "oneHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "2.10",
+        "close": "2.10",
+        "openDate": "06 May, 07:54",
+        "closeDate": null,
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.73",
+        "close": "1.73",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:59",
+        "positionHint": "even"
+      }
+    },
+    "twoHalf": {
+      "odd": {
+        "name": "BET365",
+        "open": "1.91",
+        "close": "1.91",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:48",
+        "positionHint": "odd"
+      },
+      "even": {
+        "name": "BET365",
+        "open": "1.80",
+        "close": "1.80",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:48",
+        "positionHint": "even"
+      }
+    }
+  }
+]

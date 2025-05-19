@@ -1,0 +1,742 @@
+[
+  {
+    "name": "Africa",
+    "image": "https://cci2.url.com/country-flags/1.svg"
+  },
+  {
+    "name": "Albania",
+    "image": "https://cci2.url.com/country-flags/al.svg"
+  },
+  {
+    "name": "Algeria",
+    "image": "https://cci2.url.com/country-flags/dz.svg"
+  },
+  {
+    "name": "Andorra",
+    "image": "https://cci2.url.com/country-flags/ad.svg"
+  },
+  {
+    "name": "Angola",
+    "image": "https://cci2.url.com/country-flags/ao.svg"
+  },
+  {
+    "name": "Antigua & Barbuda",
+    "image": "https://cci2.url.com/country-flags/ag.svg"
+  },
+  {
+    "name": "Argentina",
+    "image": "https://cci2.url.com/country-flags/ar.svg"
+  },
+  {
+    "name": "Armenia",
+    "image": "https://cci2.url.com/country-flags/am.svg"
+  },
+  {
+    "name": "Aruba",
+    "image": "https://cci2.url.com/country-flags/aw.svg"
+  },
+  {
+    "name": "Asia",
+    "image": "https://cci2.url.com/country-flags/5.svg"
+  },
+  {
+    "name": "Australia",
+    "image": "https://cci2.url.com/country-flags/au.svg"
+  },
+  {
+    "name": "Australia & Oceania",
+    "image": "https://cci2.url.com/country-flags/7.svg"
+  },
+  {
+    "name": "Austria",
+    "image": "https://cci2.url.com/country-flags/at.svg"
+  },
+  {
+    "name": "Azerbaijan",
+    "image": "https://cci2.url.com/country-flags/az.svg"
+  },
+  {
+    "name": "Bahrain",
+    "image": "https://cci2.url.com/country-flags/bh.svg"
+  },
+  {
+    "name": "Bangladesh",
+    "image": "https://cci2.url.com/country-flags/bd.svg"
+  },
+  {
+    "name": "Barbados",
+    "image": "https://cci2.url.com/country-flags/bb.svg"
+  },
+  {
+    "name": "Belarus",
+    "image": "https://cci2.url.com/country-flags/by.svg"
+  },
+  {
+    "name": "Belgium",
+    "image": "https://cci2.url.com/country-flags/be.svg"
+  },
+  {
+    "name": "Benin",
+    "image": "https://cci2.url.com/country-flags/bj.svg"
+  },
+  {
+    "name": "Bermuda",
+    "image": "https://cci2.url.com/country-flags/bm.svg"
+  },
+  {
+    "name": "Bhutan",
+    "image": "https://cci2.url.com/country-flags/bt.svg"
+  },
+  {
+    "name": "Bolivia",
+    "image": "https://cci2.url.com/country-flags/bo.svg"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "image": "https://cci2.url.com/country-flags/ba.svg"
+  },
+  {
+    "name": "Botswana",
+    "image": "https://cci2.url.com/country-flags/bw.svg"
+  },
+  {
+    "name": "Brazil",
+    "image": "https://cci2.url.com/country-flags/br.svg"
+  },
+  {
+    "name": "Bulgaria",
+    "image": "https://cci2.url.com/country-flags/bg.svg"
+  },
+  {
+    "name": "Burkina Faso",
+    "image": "https://cci2.url.com/country-flags/bf.svg"
+  },
+  {
+    "name": "Burundi",
+    "image": "https://cci2.url.com/country-flags/bi.svg"
+  },
+  {
+    "name": "Cambodia",
+    "image": "https://cci2.url.com/country-flags/kh.svg"
+  },
+  {
+    "name": "Cameroon",
+    "image": "https://cci2.url.com/country-flags/cm.svg"
+  },
+  {
+    "name": "Canada",
+    "image": "https://cci2.url.com/country-flags/ca.svg"
+  },
+  {
+    "name": "Cape Verde",
+    "image": "https://cci2.url.com/country-flags/cv.svg"
+  },
+  {
+    "name": "Chad",
+    "image": "https://cci2.url.com/country-flags/td.svg"
+  },
+  {
+    "name": "Chile",
+    "image": "https://cci2.url.com/country-flags/cl.svg"
+  },
+  {
+    "name": "China",
+    "image": "https://cci2.url.com/country-flags/cn.svg"
+  },
+  {
+    "name": "Colombia",
+    "image": "https://cci2.url.com/country-flags/co.svg"
+  },
+  {
+    "name": "Costa Rica",
+    "image": "https://cci2.url.com/country-flags/cr.svg"
+  },
+  {
+    "name": "Croatia",
+    "image": "https://cci2.url.com/country-flags/hr.svg"
+  },
+  {
+    "name": "Cuba",
+    "image": "https://cci2.url.com/country-flags/cu.svg"
+  },
+  {
+    "name": "Curaçao",
+    "image": "https://cci2.url.com/country-flags/cw.svg"
+  },
+  {
+    "name": "Cyprus",
+    "image": "https://cci2.url.com/country-flags/cy.svg"
+  },
+  {
+    "name": "Czech Republic",
+    "image": "https://cci2.url.com/country-flags/cz.svg"
+  },
+  {
+    "name": "DR Congo",
+    "image": "https://cci2.url.com/country-flags/cg.svg"
+  },
+  {
+    "name": "Denmark",
+    "image": "https://cci2.url.com/country-flags/dk.svg"
+  },
+  {
+    "name": "Djibouti",
+    "image": "https://cci2.url.com/country-flags/dj.svg"
+  },
+  {
+    "name": "Dominican Republic",
+    "image": "https://cci2.url.com/country-flags/do.svg"
+  },
+  {
+    "name": "Ecuador",
+    "image": "https://cci2.url.com/country-flags/ec.svg"
+  },
+  {
+    "name": "Egypt",
+    "image": "https://cci2.url.com/country-flags/eg.svg"
+  },
+  {
+    "name": "El Salvador",
+    "image": "https://cci2.url.com/country-flags/sv.svg"
+  },
+  {
+    "name": "England",
+    "image": "https://cci2.url.com/country-flags/198.svg"
+  },
+  {
+    "name": "Estonia",
+    "image": "https://cci2.url.com/country-flags/ee.svg"
+  },
+  {
+    "name": "Eswatini",
+    "image": "https://cci2.url.com/country-flags/sz.svg"
+  },
+  {
+    "name": "Ethiopia",
+    "image": "https://cci2.url.com/country-flags/et.svg"
+  },
+  {
+    "name": "Europe",
+    "image": "https://cci2.url.com/country-flags/6.svg"
+  },
+  {
+    "name": "Faroe Islands",
+    "image": "https://cci2.url.com/country-flags/fo.svg"
+  },
+  {
+    "name": "Fiji",
+    "image": "https://cci2.url.com/country-flags/fj.svg"
+  },
+  {
+    "name": "Finland",
+    "image": "https://cci2.url.com/country-flags/fi.svg"
+  },
+  {
+    "name": "France",
+    "image": "https://cci2.url.com/country-flags/fr.svg"
+  },
+  {
+    "name": "Gabon",
+    "image": "https://cci2.url.com/country-flags/ga.svg"
+  },
+  {
+    "name": "Gambia",
+    "image": "https://cci2.url.com/country-flags/gm.svg"
+  },
+  {
+    "name": "Georgia",
+    "image": "https://cci2.url.com/country-flags/ge.svg"
+  },
+  {
+    "name": "Germany",
+    "image": "https://cci2.url.com/country-flags/de.svg"
+  },
+  {
+    "name": "Ghana",
+    "image": "https://cci2.url.com/country-flags/gh.svg"
+  },
+  {
+    "name": "Gibraltar",
+    "image": "https://cci2.url.com/country-flags/gi.svg"
+  },
+  {
+    "name": "Greece",
+    "image": "https://cci2.url.com/country-flags/gr.svg"
+  },
+  {
+    "name": "Grenada",
+    "image": "https://cci2.url.com/country-flags/gd.svg"
+  },
+  {
+    "name": "Guatemala",
+    "image": "https://cci2.url.com/country-flags/gt.svg"
+  },
+  {
+    "name": "Guinea",
+    "image": "https://cci2.url.com/country-flags/gn.svg"
+  },
+  {
+    "name": "Haiti",
+    "image": "https://cci2.url.com/country-flags/ht.svg"
+  },
+  {
+    "name": "Honduras",
+    "image": "https://cci2.url.com/country-flags/hn.svg"
+  },
+  {
+    "name": "Hong Kong",
+    "image": "https://cci2.url.com/country-flags/hk.svg"
+  },
+  {
+    "name": "Hungary",
+    "image": "https://cci2.url.com/country-flags/hu.svg"
+  },
+  {
+    "name": "Iceland",
+    "image": "https://cci2.url.com/country-flags/is.svg"
+  },
+  {
+    "name": "India",
+    "image": "https://cci2.url.com/country-flags/in.svg"
+  },
+  {
+    "name": "Indonesia",
+    "image": "https://cci2.url.com/country-flags/id.svg"
+  },
+  {
+    "name": "Iran",
+    "image": "https://cci2.url.com/country-flags/ir.svg"
+  },
+  {
+    "name": "Iraq",
+    "image": "https://cci2.url.com/country-flags/iq.svg"
+  },
+  {
+    "name": "Ireland",
+    "image": "https://cci2.url.com/country-flags/ie.svg"
+  },
+  {
+    "name": "Israel",
+    "image": "https://cci2.url.com/country-flags/il.svg"
+  },
+  {
+    "name": "Italy",
+    "image": "https://cci2.url.com/country-flags/it.svg"
+  },
+  {
+    "name": "Ivory Coast",
+    "image": "https://cci2.url.com/country-flags/ci.svg"
+  },
+  {
+    "name": "Jamaica",
+    "image": "https://cci2.url.com/country-flags/jm.svg"
+  },
+  {
+    "name": "Japan",
+    "image": "https://cci2.url.com/country-flags/jp.svg"
+  },
+  {
+    "name": "Jordan",
+    "image": "https://cci2.url.com/country-flags/jo.svg"
+  },
+  {
+    "name": "Kazakhstan",
+    "image": "https://cci2.url.com/country-flags/kz.svg"
+  },
+  {
+    "name": "Kenya",
+    "image": "https://cci2.url.com/country-flags/ke.svg"
+  },
+  {
+    "name": "Kosovo",
+    "image": "https://cci2.url.com/country-flags/xk.svg"
+  },
+  {
+    "name": "Kuwait",
+    "image": "https://cci2.url.com/country-flags/kw.svg"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "image": "https://cci2.url.com/country-flags/kg.svg"
+  },
+  {
+    "name": "Laos",
+    "image": "https://cci2.url.com/country-flags/la.svg"
+  },
+  {
+    "name": "Latvia",
+    "image": "https://cci2.url.com/country-flags/lv.svg"
+  },
+  {
+    "name": "Lebanon",
+    "image": "https://cci2.url.com/country-flags/lb.svg"
+  },
+  {
+    "name": "Lesotho",
+    "image": "https://cci2.url.com/country-flags/ls.svg"
+  },
+  {
+    "name": "Liberia",
+    "image": "https://cci2.url.com/country-flags/lr.svg"
+  },
+  {
+    "name": "Libya",
+    "image": "https://cci2.url.com/country-flags/ly.svg"
+  },
+  {
+    "name": "Liechtenstein",
+    "image": "https://cci2.url.com/country-flags/li.svg"
+  },
+  {
+    "name": "Lithuania",
+    "image": "https://cci2.url.com/country-flags/lt.svg"
+  },
+  {
+    "name": "Luxembourg",
+    "image": "https://cci2.url.com/country-flags/lu.svg"
+  },
+  {
+    "name": "Macao",
+    "image": "https://cci2.url.com/country-flags/mo.svg"
+  },
+  {
+    "name": "Malawi",
+    "image": "https://cci2.url.com/country-flags/mw.svg"
+  },
+  {
+    "name": "Malaysia",
+    "image": "https://cci2.url.com/country-flags/my.svg"
+  },
+  {
+    "name": "Maldives",
+    "image": "https://cci2.url.com/country-flags/mv.svg"
+  },
+  {
+    "name": "Mali",
+    "image": "https://cci2.url.com/country-flags/ml.svg"
+  },
+  {
+    "name": "Malta",
+    "image": "https://cci2.url.com/country-flags/mt.svg"
+  },
+  {
+    "name": "Martinique",
+    "image": "https://cci2.url.com/country-flags/mq.svg"
+  },
+  {
+    "name": "Mauritania",
+    "image": "https://cci2.url.com/country-flags/mr.svg"
+  },
+  {
+    "name": "Mauritius",
+    "image": "https://cci2.url.com/country-flags/mu.svg"
+  },
+  {
+    "name": "Mexico",
+    "image": "https://cci2.url.com/country-flags/mx.svg"
+  },
+  {
+    "name": "Moldova",
+    "image": "https://cci2.url.com/country-flags/md.svg"
+  },
+  {
+    "name": "Mongolia",
+    "image": "https://cci2.url.com/country-flags/mn.svg"
+  },
+  {
+    "name": "Montenegro",
+    "image": "https://cci2.url.com/country-flags/me.svg"
+  },
+  {
+    "name": "Morocco",
+    "image": "https://cci2.url.com/country-flags/ma.svg"
+  },
+  {
+    "name": "Mozambique",
+    "image": "https://cci2.url.com/country-flags/mz.svg"
+  },
+  {
+    "name": "Myanmar",
+    "image": "https://cci2.url.com/country-flags/mm.svg"
+  },
+  {
+    "name": "Namibia",
+    "image": "https://cci2.url.com/country-flags/na.svg"
+  },
+  {
+    "name": "Netherlands",
+    "image": "https://cci2.url.com/country-flags/nl.svg"
+  },
+  {
+    "name": "New Zealand",
+    "image": "https://cci2.url.com/country-flags/nz.svg"
+  },
+  {
+    "name": "Nicaragua",
+    "image": "https://cci2.url.com/country-flags/ni.svg"
+  },
+  {
+    "name": "Niger",
+    "image": "https://cci2.url.com/country-flags/ne.svg"
+  },
+  {
+    "name": "Nigeria",
+    "image": "https://cci2.url.com/country-flags/ng.svg"
+  },
+  {
+    "name": "North & Central America",
+    "image": "https://cci2.url.com/country-flags/2.svg"
+  },
+  {
+    "name": "North Macedonia",
+    "image": "https://cci2.url.com/country-flags/mk.svg"
+  },
+  {
+    "name": "Northern Ireland",
+    "image": "https://cci2.url.com/country-flags/144.svg"
+  },
+  {
+    "name": "Norway",
+    "image": "https://cci2.url.com/country-flags/no.svg"
+  },
+  {
+    "name": "Oman",
+    "image": "https://cci2.url.com/country-flags/om.svg"
+  },
+  {
+    "name": "Pakistan",
+    "image": "https://cci2.url.com/country-flags/pk.svg"
+  },
+  {
+    "name": "Palestine",
+    "image": "https://cci2.url.com/country-flags/ps.svg"
+  },
+  {
+    "name": "Panama",
+    "image": "https://cci2.url.com/country-flags/pa.svg"
+  },
+  {
+    "name": "Paraguay",
+    "image": "https://cci2.url.com/country-flags/py.svg"
+  },
+  {
+    "name": "Peru",
+    "image": "https://cci2.url.com/country-flags/pe.svg"
+  },
+  {
+    "name": "Philippines",
+    "image": "https://cci2.url.com/country-flags/ph.svg"
+  },
+  {
+    "name": "Poland",
+    "image": "https://cci2.url.com/country-flags/pl.svg"
+  },
+  {
+    "name": "Portugal",
+    "image": "https://cci2.url.com/country-flags/pt.svg"
+  },
+  {
+    "name": "Qatar",
+    "image": "https://cci2.url.com/country-flags/qa.svg"
+  },
+  {
+    "name": "Republic of the Congo",
+    "image": "https://cci2.url.com/country-flags/cd.svg"
+  },
+  {
+    "name": "Romania",
+    "image": "https://cci2.url.com/country-flags/ro.svg"
+  },
+  {
+    "name": "Russia",
+    "image": "https://cci2.url.com/country-flags/ru.svg"
+  },
+  {
+    "name": "Rwanda",
+    "image": "https://cci2.url.com/country-flags/rw.svg"
+  },
+  {
+    "name": "Réunion",
+    "image": "https://cci2.url.com/country-flags/re.svg"
+  },
+  {
+    "name": "San Marino",
+    "image": "https://cci2.url.com/country-flags/sm.svg"
+  },
+  {
+    "name": "Saudi Arabia",
+    "image": "https://cci2.url.com/country-flags/sa.svg"
+  },
+  {
+    "name": "Scotland",
+    "image": "https://cci2.url.com/country-flags/199.svg"
+  },
+  {
+    "name": "Senegal",
+    "image": "https://cci2.url.com/country-flags/sn.svg"
+  },
+  {
+    "name": "Serbia",
+    "image": "https://cci2.url.com/country-flags/rs.svg"
+  },
+  {
+    "name": "Serbia and Montenegro",
+    "image": "https://cci2.url.com/country-flags/12.svg"
+  },
+  {
+    "name": "Seychelles",
+    "image": "https://cci2.url.com/country-flags/sc.svg"
+  },
+  {
+    "name": "Sierra Leone",
+    "image": "https://cci2.url.com/country-flags/sl.svg"
+  },
+  {
+    "name": "Singapore",
+    "image": "https://cci2.url.com/country-flags/sg.svg"
+  },
+  {
+    "name": "Slovakia",
+    "image": "https://cci2.url.com/country-flags/sk.svg"
+  },
+  {
+    "name": "Slovenia",
+    "image": "https://cci2.url.com/country-flags/si.svg"
+  },
+  {
+    "name": "Somalia",
+    "image": "https://cci2.url.com/country-flags/so.svg"
+  },
+  {
+    "name": "South Africa",
+    "image": "https://cci2.url.com/country-flags/za.svg"
+  },
+  {
+    "name": "South America",
+    "image": "https://cci2.url.com/country-flags/3.svg"
+  },
+  {
+    "name": "South Korea",
+    "image": "https://cci2.url.com/country-flags/kr.svg"
+  },
+  {
+    "name": "Spain",
+    "image": "https://cci2.url.com/country-flags/es.svg"
+  },
+  {
+    "name": "Sri Lanka",
+    "image": "https://cci2.url.com/country-flags/lk.svg"
+  },
+  {
+    "name": "Sudan",
+    "image": "https://cci2.url.com/country-flags/sd.svg"
+  },
+  {
+    "name": "Suriname",
+    "image": "https://cci2.url.com/country-flags/sr.svg"
+  },
+  {
+    "name": "Sweden",
+    "image": "https://cci2.url.com/country-flags/se.svg"
+  },
+  {
+    "name": "Switzerland",
+    "image": "https://cci2.url.com/country-flags/ch.svg"
+  },
+  {
+    "name": "Syria",
+    "image": "https://cci2.url.com/country-flags/sy.svg"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "image": "https://cci2.url.com/country-flags/st.svg"
+  },
+  {
+    "name": "Taiwan",
+    "image": "https://cci2.url.com/country-flags/tw.svg"
+  },
+  {
+    "name": "Tajikistan",
+    "image": "https://cci2.url.com/country-flags/tj.svg"
+  },
+  {
+    "name": "Tanzania",
+    "image": "https://cci2.url.com/country-flags/tz.svg"
+  },
+  {
+    "name": "Thailand",
+    "image": "https://cci2.url.com/country-flags/th.svg"
+  },
+  {
+    "name": "Togo",
+    "image": "https://cci2.url.com/country-flags/tg.svg"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "image": "https://cci2.url.com/country-flags/tt.svg"
+  },
+  {
+    "name": "Tunisia",
+    "image": "https://cci2.url.com/country-flags/tn.svg"
+  },
+  {
+    "name": "Turkey",
+    "image": "https://cci2.url.com/country-flags/tr.svg"
+  },
+  {
+    "name": "Turkmenistan",
+    "image": "https://cci2.url.com/country-flags/tm.svg"
+  },
+  {
+    "name": "USA",
+    "image": "https://cci2.url.com/country-flags/us.svg"
+  },
+  {
+    "name": "Uganda",
+    "image": "https://cci2.url.com/country-flags/ug.svg"
+  },
+  {
+    "name": "Ukraine",
+    "image": "https://cci2.url.com/country-flags/ua.svg"
+  },
+  {
+    "name": "United Arab Emirates",
+    "image": "https://cci2.url.com/country-flags/ae.svg"
+  },
+  {
+    "name": "Uruguay",
+    "image": "https://cci2.url.com/country-flags/uy.svg"
+  },
+  {
+    "name": "Uzbekistan",
+    "image": "https://cci2.url.com/country-flags/uz.svg"
+  },
+  {
+    "name": "Venezuela",
+    "image": "https://cci2.url.com/country-flags/ve.svg"
+  },
+  {
+    "name": "Vietnam",
+    "image": "https://cci2.url.com/country-flags/vn.svg"
+  },
+  {
+    "name": "Wales",
+    "image": "https://cci2.url.com/country-flags/207.svg"
+  },
+  {
+    "name": "World",
+    "image": "https://cci2.url.com/country-flags/8.svg"
+  },
+  {
+    "name": "Yemen",
+    "image": "https://cci2.url.com/country-flags/ye.svg"
+  },
+  {
+    "name": "Zambia",
+    "image": "https://cci2.url.com/country-flags/zm.svg"
+  },
+  {
+    "name": "Zimbabwe",
+    "image": "https://cci2.url.com/country-flags/zw.svg"
+  }
+]

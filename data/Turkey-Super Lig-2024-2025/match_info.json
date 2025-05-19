@@ -1,0 +1,167 @@
+[
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/kasimpasa-trabzonspor-GvkGa6qg/",
+    "matchResult": {
+      "1.Y 0.5 A/Ü": "İY 0,5 ÜST",
+      "1.Y 1.5 A/Ü": "İY 1,5 ALT",
+      "1.Y 2.5 A/Ü": "İY 2,5 ALT",
+      "MS 1.5 A/Ü": "1,5 ÜST",
+      "MS 2.5 A/Ü": "2,5 ALT",
+      "MS 3.5 A/Ü": "2,5 ALT",
+      "MS 4.5 A/Ü": "2,5 ALT",
+      "KG VAR/YOK": "VAR",
+      "TOPLAM GOL": "2–3",
+      "İY (İlk Yarı)": "İY1",
+      "MS (Maç Sonu)": "MS  X",
+      "HT/FT (İY/MS)": "İY 1/ MSX"
+    },
+    "teamInfo": {
+      "day": "05",
+      "month": 5,
+      "year": 2025,
+      "dayOfTheWeek": "Pazartesi",
+      "ide": "GvkGa6qg",
+      "date": "05.05.2025",
+      "time": "20:00",
+      "country": "Turkey",
+      "league": "Super Lig",
+      "homeowner": "Kasimpasa",
+      "away": "Trabzonspor",
+      "ms": "1:1",
+      "oneHalf": "1:0",
+      "twoHalf": "0:1"
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/gaziantep-alanyaspor-MwNL2We2/",
+    "matchResult": {
+      "1.Y 0.5 A/Ü": "İY 0,5 ALT",
+      "1.Y 1.5 A/Ü": "İY 1,5 ALT",
+      "1.Y 2.5 A/Ü": "İY 2,5 ALT",
+      "MS 1.5 A/Ü": "1,5 ALT",
+      "MS 2.5 A/Ü": "2,5 ALT",
+      "MS 3.5 A/Ü": "2,5 ALT",
+      "MS 4.5 A/Ü": "2,5 ALT",
+      "KG VAR/YOK": "YOK",
+      "TOPLAM GOL": "1",
+      "İY (İlk Yarı)": "İYX",
+      "MS (Maç Sonu)": "MS  2",
+      "HT/FT (İY/MS)": "İY X/ MS2"
+    },
+    "teamInfo": {
+      "day": "09",
+      "month": 5,
+      "year": 2025,
+      "dayOfTheWeek": "Cuma",
+      "ide": "MwNL2We2",
+      "date": "09.05.2025",
+      "time": "20:00",
+      "country": "Turkey",
+      "league": "Super Lig",
+      "homeowner": "Gaziantep",
+      "away": "Alanyaspor",
+      "ms": "0:1",
+      "oneHalf": "0:0",
+      "twoHalf": "0:1"
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/basaksehir-fenerbahce-2TjQDd43/",
+    "matchResult": {
+      "1.Y 0.5 A/Ü": "İY 0,5 ÜST",
+      "1.Y 1.5 A/Ü": "İY 1,5 ALT",
+      "1.Y 2.5 A/Ü": "İY 2,5 ALT",
+      "MS 1.5 A/Ü": "1,5 ÜST",
+      "MS 2.5 A/Ü": "2,5 ÜST",
+      "MS 3.5 A/Ü": "3,5 ÜST",
+      "MS 4.5 A/Ü": "4,5 ÜST",
+      "KG VAR/YOK": "VAR",
+      "TOPLAM GOL": "4–5",
+      "İY (İlk Yarı)": "İY2",
+      "MS (Maç Sonu)": "MS  2",
+      "HT/FT (İY/MS)": "İY 2/ MS2"
+    },
+    "teamInfo": {
+      "day": "09",
+      "month": 5,
+      "year": 2025,
+      "dayOfTheWeek": "Cuma",
+      "ide": "2TjQDd43",
+      "date": "09.05.2025",
+      "time": "20:00",
+      "country": "Turkey",
+      "league": "Super Lig",
+      "homeowner": "Basaksehir",
+      "away": "Fenerbahce",
+      "ms": "1:4",
+      "oneHalf": "0:1",
+      "twoHalf": "1:3"
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/eyupspor-kasimpasa-W8rsAE3S/",
+    "matchResult": {
+      "1.Y 0.5 A/Ü": "İY 0,5 ÜST",
+      "1.Y 1.5 A/Ü": "İY 1,5 ALT",
+      "1.Y 2.5 A/Ü": "İY 2,5 ALT",
+      "MS 1.5 A/Ü": "1,5 ÜST",
+      "MS 2.5 A/Ü": "2,5 ÜST",
+      "MS 3.5 A/Ü": "2,5 ALT",
+      "MS 4.5 A/Ü": "2,5 ALT",
+      "KG VAR/YOK": "YOK",
+      "TOPLAM GOL": "2–3",
+      "İY (İlk Yarı)": "İY2",
+      "MS (Maç Sonu)": "MS  2",
+      "HT/FT (İY/MS)": "İY 2/ MS2"
+    },
+    "teamInfo": {
+      "day": "10",
+      "month": 5,
+      "year": 2025,
+      "dayOfTheWeek": "Cumartesi",
+      "ide": "W8rsAE3S",
+      "date": "10.05.2025",
+      "time": "16:00",
+      "country": "Turkey",
+      "league": "Super Lig",
+      "homeowner": "Eyupspor",
+      "away": "Kasimpasa",
+      "ms": "0:3",
+      "oneHalf": "0:1",
+      "twoHalf": "0:2"
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/konyaspor-rizespor-OruZBzZF/",
+    "matchResult": {
+      "1.Y 0.5 A/Ü": "İY 0,5 ALT",
+      "1.Y 1.5 A/Ü": "İY 1,5 ALT",
+      "1.Y 2.5 A/Ü": "İY 2,5 ALT",
+      "MS 1.5 A/Ü": "1,5 ÜST",
+      "MS 2.5 A/Ü": "2,5 ÜST",
+      "MS 3.5 A/Ü": "2,5 ALT",
+      "MS 4.5 A/Ü": "2,5 ALT",
+      "KG VAR/YOK": "VAR",
+      "TOPLAM GOL": "2–3",
+      "İY (İlk Yarı)": "İYX",
+      "MS (Maç Sonu)": "MS  1",
+      "HT/FT (İY/MS)": "İY X/ MS1"
+    },
+    "teamInfo": {
+      "day": "10",
+      "month": 5,
+      "year": 2025,
+      "dayOfTheWeek": "Cumartesi",
+      "ide": "OruZBzZF",
+      "date": "10.05.2025",
+      "time": "16:00",
+      "country": "Turkey",
+      "league": "Super Lig",
+      "homeowner": "Konyaspor",
+      "away": "Rizespor",
+      "ms": "2:1",
+      "oneHalf": "0:0",
+      "twoHalf": "2:1"
+    }
+  }
+]

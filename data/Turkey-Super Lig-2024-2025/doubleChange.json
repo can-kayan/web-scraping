@@ -1,0 +1,307 @@
+[
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/kasimpasa-trabzonspor-GvkGa6qg/",
+    "name": "BET365",
+    "fullTime": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.53",
+        "close": "1.40",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 18:52",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.29",
+        "close": "1.25",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:56",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.50",
+        "close": "1.67",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 18:52",
+        "positionHint": "xtwo"
+      }
+    },
+    "oneHalf": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.36",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 16:25",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.50",
+        "close": "1.50",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": null,
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.36",
+        "close": "1.44",
+        "openDate": "29 Apr, 08:00",
+        "closeDate": "05 May, 19:58",
+        "positionHint": "xtwo"
+      }
+    },
+    "twoHalf": {
+      "onex": null,
+      "onetwo": null,
+      "xtwo": null
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/gaziantep-alanyaspor-MwNL2We2/",
+    "name": "BET365",
+    "fullTime": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.50",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 19:21",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.30",
+        "close": "1.30",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 19:19",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.53",
+        "close": "1.44",
+        "openDate": "05 May, 21:44",
+        "closeDate": "09 May, 19:41",
+        "positionHint": "xtwo"
+      }
+    },
+    "oneHalf": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.33",
+        "close": "1.36",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 19:20",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.57",
+        "close": "1.57",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 15:54",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.36",
+        "close": "1.36",
+        "openDate": "05 May, 21:43",
+        "closeDate": "09 May, 19:19",
+        "positionHint": "xtwo"
+      }
+    },
+    "twoHalf": {
+      "onex": null,
+      "onetwo": null,
+      "xtwo": null
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/basaksehir-fenerbahce-2TjQDd43/",
+    "name": "BET365",
+    "fullTime": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.95",
+        "close": "2.10",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:14",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.25",
+        "close": "1.22",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:19",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.22",
+        "close": "1.22",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:59",
+        "positionHint": "xtwo"
+      }
+    },
+    "oneHalf": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.57",
+        "close": "1.62",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:14",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.53",
+        "close": "1.50",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 18:59",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.20",
+        "close": "1.17",
+        "openDate": "05 May, 21:45",
+        "closeDate": "09 May, 19:14",
+        "positionHint": "xtwo"
+      }
+    },
+    "twoHalf": {
+      "onex": null,
+      "onetwo": null,
+      "xtwo": null
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/eyupspor-kasimpasa-W8rsAE3S/",
+    "name": "BET365",
+    "fullTime": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.36",
+        "close": "1.62",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:33",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.25",
+        "close": "1.25",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:33",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.62",
+        "close": "1.36",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:33",
+        "positionHint": "xtwo"
+      }
+    },
+    "oneHalf": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.30",
+        "close": "1.40",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:58",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.53",
+        "close": "1.53",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:58",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.30",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:58",
+        "positionHint": "xtwo"
+      }
+    },
+    "twoHalf": {
+      "onex": null,
+      "onetwo": null,
+      "xtwo": null
+    }
+  },
+  {
+    "url": "https://www.url.com/football/turkey/super-lig/konyaspor-rizespor-OruZBzZF/",
+    "name": "BET365",
+    "fullTime": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.30",
+        "close": "1.44",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:45",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.33",
+        "close": "1.33",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:40",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.70",
+        "close": "1.50",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:45",
+        "positionHint": "xtwo"
+      }
+    },
+    "oneHalf": {
+      "onex": {
+        "name": "bet365.us",
+        "open": "1.25",
+        "close": "1.33",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:57",
+        "positionHint": "onex"
+      },
+      "onetwo": {
+        "name": "bet365.us",
+        "open": "1.62",
+        "close": "1.57",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:57",
+        "positionHint": "onetwo"
+      },
+      "xtwo": {
+        "name": "bet365.us",
+        "open": "1.40",
+        "close": "1.36",
+        "openDate": "06 May, 07:54",
+        "closeDate": "10 May, 15:57",
+        "positionHint": "xtwo"
+      }
+    },
+    "twoHalf": {
+      "onex": null,
+      "onetwo": null,
+      "xtwo": null
+    }
+  }
+]
